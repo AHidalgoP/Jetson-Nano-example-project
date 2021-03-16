@@ -6,4 +6,5 @@ The aim of the project is to automatically classify house rooms using a covoluti
 Authors:
 
 Silvia Guillén Ruiz
+
 Alejandro Hidalgo Paniagua
